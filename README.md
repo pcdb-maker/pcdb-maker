@@ -33,9 +33,7 @@ Redux <br />
 ### 📫  How to reach me:
 Email: <br />
 chloeprofessionaldevelopment@outlook.com <br />
-LinkedIn: <br />
-https://www.linkedin.com/in/chloe-o-834127306/ <br />
 Discord ID: <br /> pcdb_maker <br />
-Zoom: <br /> https://us05web.zoom.us/j/3563163651?pwd=TWNHNWhjaUpYTHBCTjZwNW1lNC9CZz09 <br />
+
   
 

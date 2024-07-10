@@ -32,7 +32,7 @@ Redux <br />
   
 ### 📫  How to reach me:
 Email: <br />
-chloeprofessionaldevelopment@outlook.com <br />
+cosborne.career@outlook.com <br />
 Discord ID: <br /> pcdb_maker <br />
 
   

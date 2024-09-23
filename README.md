@@ -23,7 +23,9 @@ Shopify, Square, Stripe.
 ### Design Skills: 
 Figma, Adobe, Blender, Unity.
 ### I’m currently working on:
-Datonator: a web application calendar intergation using React that can track and manage your online subscriptions. 
-Japanweb: A project 
+Datonator: a web application calandar intergation using React that can track and manage your online subscriptions. <br>
+Japanweb: A project aiming to make Japanese websites more accesable inline with web 3.0 statndards.<br>
 ### I’ve made:
 [A full HR CRM using refine](https://crm-react-app-refine.vercel.app)
+[An API driven car rental application](https://new-car-api.vercel.app/)
+[A magical profile using Next, React and Three](https://magical-portfolio-main.vercel.app/)

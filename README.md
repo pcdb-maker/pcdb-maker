@@ -85,5 +85,3 @@ I'm a fullstack web-developer and digital artist.
 - [An API-driven car rental application](https://new-car-api.vercel.app/)
 - [A magical profile using Next.js, React, and Three.js](https://magical-portfolio-main.vercel.app/)
 
-- [A magical profile using Next.js, React, and Three.js](https://magical-portfolio-main.vercel.app/)
-

@@ -24,14 +24,15 @@ I'm a fullstack web-developer and digital artist.
 - Vue.js
 - Angular
 - Next.js
-- **React Native**
+- React Native
 - Vite
 - Bootstrap
 - Tailwind
 - Sass/Less
 
 ### Mobile Development:
-- **React Native** (iOS/Android)
+- React Native** (iOS/Android)
+-  Go (Golang)
 - Mobile-First Design
 - Responsive UI
 - Cross-Platform Development

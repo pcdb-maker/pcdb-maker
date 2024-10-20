@@ -31,7 +31,7 @@ I'm a fullstack web-developer and digital artist.
 - Sass/Less
 
 ### Mobile Development:
-- React Native** (iOS/Android)
+- React Native (iOS/Android)
 -  Go (Golang)
 - Mobile-First Design
 - Responsive UI
